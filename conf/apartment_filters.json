@@ -1,0 +1,11 @@
+{"filters": {   
+    "limit":"72", 
+    "ownerTypeSingleSelect":"ALL",
+    "priceMin":100000,
+    "priceMax":40000,
+    "by":"DEFAULT",
+    "direction": "DESC",
+    "viewType": "listing"},
+
+"pages_number": 5
+}
